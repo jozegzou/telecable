@@ -1,0 +1,31 @@
+@charset "utf-8";
+.Todo {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.contenido {
+}
+
+.contenido {
+	width: 800px;
+}
+.contenido img {
+}
+#anuncio {
+	width: 600px;
+	float: left;
+}
+#header {
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	float: none;
+}
+html body .anuncio {
+}
+#header html body .anuncio p strong {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+}
+#header {
+}
